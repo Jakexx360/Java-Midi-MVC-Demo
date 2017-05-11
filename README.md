@@ -1,4 +1,4 @@
-#MVC Information#
+# MVC Information
 
     Model: Interface for my Model, only implemented by Score.
 
@@ -15,7 +15,7 @@
     View: Interface representing possible views for the music player. Contains ConsoleView,
           MidiViewImpl, GuiViewFrame, and CompositeView which are created by the ViewFactory factory.
 
-#Controls:#
+# Controls:
 
 * Double left click a Note to increase duration of the Note
 * Double left click an empty space to create a new Note
